@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rutulpanchal/chose-search-pet-using-react.git/static/css/main.3d88232d.chunk.css",
+    "main.js": "/rutulpanchal/chose-search-pet-using-react.git/static/js/main.50224f5f.chunk.js",
+    "main.js.map": "/rutulpanchal/chose-search-pet-using-react.git/static/js/main.50224f5f.chunk.js.map",
+    "runtime-main.js": "/rutulpanchal/chose-search-pet-using-react.git/static/js/runtime-main.7109e99e.js",
+    "runtime-main.js.map": "/rutulpanchal/chose-search-pet-using-react.git/static/js/runtime-main.7109e99e.js.map",
+    "static/js/2.4eb19f1f.chunk.js": "/rutulpanchal/chose-search-pet-using-react.git/static/js/2.4eb19f1f.chunk.js",
+    "static/js/2.4eb19f1f.chunk.js.map": "/rutulpanchal/chose-search-pet-using-react.git/static/js/2.4eb19f1f.chunk.js.map",
+    "static/js/3.c243a977.chunk.js": "/rutulpanchal/chose-search-pet-using-react.git/static/js/3.c243a977.chunk.js",
+    "static/js/3.c243a977.chunk.js.map": "/rutulpanchal/chose-search-pet-using-react.git/static/js/3.c243a977.chunk.js.map",
+    "index.html": "/rutulpanchal/chose-search-pet-using-react.git/index.html",
+    "static/css/main.3d88232d.chunk.css.map": "/rutulpanchal/chose-search-pet-using-react.git/static/css/main.3d88232d.chunk.css.map",
+    "static/js/2.4eb19f1f.chunk.js.LICENSE.txt": "/rutulpanchal/chose-search-pet-using-react.git/static/js/2.4eb19f1f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7109e99e.js",
+    "static/js/2.4eb19f1f.chunk.js",
+    "static/css/main.3d88232d.chunk.css",
+    "static/js/main.50224f5f.chunk.js"
+  ]
+}
